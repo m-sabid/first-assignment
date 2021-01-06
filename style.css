@@ -196,25 +196,29 @@ body
     width: 70%;
     margin: auto;
     margin-top: 700px;
+    margin-bottom: 50px;
+    padding-bottom: 35px;
 }
 .footerCon
 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
+    width: 40%;
 }
 .hairMe
 {
-    font-size: 45px;
+    font-size: 50px;
     font-weight: 900;
     color: white;
+    margin-left: 30%;
+    margin-top: 22%;
 }
 .logout 
 {
     text-decoration: none;
+    font-size: 35px;
     background-image: linear-gradient(45deg, #64aa5b, #58e73c);
     padding: 15px;
-    margin-bottom: 55px;
+    margin-left: 35%;
     border-radius: 10px;
 }
 .copyRight
