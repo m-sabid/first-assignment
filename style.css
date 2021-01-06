@@ -1,0 +1,224 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+/*Nav Section's CSS*/
+.navSec
+{
+    height: 100%;
+    margin-top: 20px;
+    clear: both;
+}
+.navCntainer
+{
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+#btn
+{
+    text-decoration: none;
+    color:orange;
+    font-weight: 900;
+    padding: 0px 5%;
+}
+
+/*Branner1 Section's CSS*/
+.profBnrSec
+{
+    height: 100%;
+    margin-top: 40px;
+    width: 100%;
+    clear: both;
+}
+.textArea h1
+{
+    font-size: 75px;
+    color: #363958;
+}
+.nameColor
+{
+    color: #F69B60;
+}
+
+.bodyText
+{
+    text-align: justify;
+    margin-bottom: 40px;
+    color: #3E3E3E;
+}
+.bannerArea
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.bannerArea img
+{
+    width: 100%;
+}
+.bodyBtn
+{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(45deg, #e0736bbd, #F86A61);
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+/*Branner2 Section's CSS*/
+.profBnrSec2
+{
+    height: 100%;
+    width: 100%;
+    background-color: teal;
+    clear: both;
+}
+.bannerArea h3
+{
+    color: #FF3484;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+/*Working Area CSS*/
+.workArea
+{
+    clear: both;
+    background-color: #f8f3f3;
+    height: auto;
+    margin-top: 600px;
+}
+.allworkSec
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.workArea h2
+{
+    padding-top: 40px;
+    font-size: 35px;
+    color: #F59A60;
+    text-align: center;
+}
+.workArea h2 span
+{
+    color: #FF3384;
+}
+.workCon
+{
+    width: 20%;
+    height: 60%;
+    background-color: #F4FCFE;
+    margin: 0px 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #888888;
+    margin-bottom: 60px;
+}
+.workPic
+{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid #F8F3F3;
+}
+.workCon h3
+{
+    color: #333333;
+    font-weight: 800;
+    padding: 10px;
+}
+.workCon p
+{
+    color: #3E3E3E;
+    text-align: center;
+}
+.contactSec
+{
+    clear: both;
+    margin-top: 80px;
+}
+.contactText
+{
+    color: #3E3E3E;
+}
+.contactText, .contactimg
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    font-weight: 500;
+}
+
+.contactimg img
+{
+    width: 100%;
+}
+.contactText h2
+{
+    font-size: 35px;
+    color: #FF3484;
+}
+.contactText h3
+{
+    color: blue;
+    margin-top: 8%;
+}
+.socialIcn img 
+{
+    width: 20%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin: 10px 20px;
+}
+.socialIcn
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.allCont
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer
+{
+    background-image: url(image/underimg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70%;
+    margin: auto;
+    margin-top: 700px;
+}
+.footerCon
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hairMe
+{
+    font-size: 45px;
+    font-weight: 900;
+    color: white;
+}
+.logout 
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #64aa5b, #58e73c);
+    padding: 15px;
+    margin-bottom: 55px;
+    border-radius: 10px;
+}
+.copyRight
+{
+    text-align: center;
+    font-size: 12px;
+}
